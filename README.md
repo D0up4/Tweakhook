@@ -36,3 +36,7 @@ pip install colorama
 git clone https://github.com/your-username/discord-webhook-tool.git
 cd discord-webhook-tool
 ```
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
